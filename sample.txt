@@ -1,2 +1,3 @@
 This is a sample text for test.
 This is a sample text second line.
+This is a feature text third line.
